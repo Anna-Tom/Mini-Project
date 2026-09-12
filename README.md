@@ -1,8 +1,7 @@
 # Mini-Project
 
-# Project Title
+# Global Freelancers Dataset
 
-Global Freelancers Dataset
 ## Project Overview
 An interactive Global Freelancers Dashboard developed using Microsoft Excel and Power BI to analyze how geographic location, experience and hourly rates influence customer satisfaction.
 ## Aim
