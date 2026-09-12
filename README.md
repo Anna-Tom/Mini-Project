@@ -18,7 +18,7 @@ Phase 1 - Excel
 Phase 2 - Power BI
 * Multiple visualizations that communicate insights clearly
 * Appropriate use of charts
-*Clear and interactive layout
+* Clear and interactive layout
 * Proper titles, labels and legends
 ## Dashboard Pages
 * Executive Summary
